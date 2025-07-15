@@ -1,4 +1,4 @@
 # demo-project
 This is my first git repository
 <br>
-Author - Sathi Seth
+Author - Sathi Seth(author)
